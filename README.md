@@ -12,15 +12,15 @@ Features
 🗄️ MongoDB Database Integration
 
 *Tech Stack
-Frontend: Next.js 15, React 19, TypeScript
-Styling: Tailwind CSS, DaisyUI
-Authentication: NextAuth.js, JWT
-Database: MongoDB with Mongoose
-File Storage: ImageKit
-Payment: Razorpay
-Email: Nodemailer
-Form Handling: React Hook Form
-Prerequisites
+1)Frontend: Next.js 15, React 19, TypeScript
+2)Styling: Tailwind CSS, DaisyUI
+3)Authentication: NextAuth.js, JWT
+4)Database: MongoDB with Mongoose
+5)File Storage: ImageKit
+6)Payment: Razorpay
+7)Email: Nodemailer
+8)Form Handling: React Hook Form
+9)Prerequisites
 Node.js (Latest LTS version)
 ImageKit Account
 Razorpay Account
