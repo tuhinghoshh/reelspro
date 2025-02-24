@@ -50,21 +50,11 @@ SMTP_HOST=
 SMTP_PORT=
 SMTP_USER=
 SMTP_PASS=
-Available Scripts
+
+**Available Scripts
 npm run dev - Start development server
 npm run build - Build production application
 npm run start - Start production server
 npm run lint - Run ESLint
 npm run seed - Seed the database
 npm run mailtrap - Test email configuration
-Project Structure
-├── app/                  # Next.js app directory
-│   ├── api/             # API routes
-│   ├── components/      # Reusable components
-│   ├── login/          # Login page
-│   ├── register/       # Registration page
-│   └── upload/         # Video upload page
-├── lib/                # Utility functions
-├── models/             # MongoDB models
-├── public/            # Static assets
-└── types.d.ts         # TypeScript declarations
