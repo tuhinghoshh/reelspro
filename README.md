@@ -1,4 +1,4 @@
-ImageKit Video Shop
+**ImageKit Video Shop
 A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities, and payment processing using Razorpay.
 
 Features
@@ -10,7 +10,8 @@ Features
 🔒 Secure API Routes
 📧 Email Notifications (Nodemailer)
 🗄️ MongoDB Database Integration
-Tech Stack
+
+*Tech Stack
 Frontend: Next.js 15, React 19, TypeScript
 Styling: Tailwind CSS, DaisyUI
 Authentication: NextAuth.js, JWT
@@ -21,17 +22,9 @@ Email: Nodemailer
 Form Handling: React Hook Form
 Prerequisites
 Node.js (Latest LTS version)
-MongoDB Database
 ImageKit Account
 Razorpay Account
 SMTP Server (for email notifications)
-Getting Started
-Clone the repository:
-git clone <repository-url>
-cd imagekit-video-main
-Install dependencies:
-npm install
-Configure environment variables:
 
 **Environment Variables
 Create a .env file with the following variables:
